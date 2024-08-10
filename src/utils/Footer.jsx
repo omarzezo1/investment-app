@@ -79,7 +79,7 @@ const Footer = () => {
           </ul>
         </div>
         <div className="xl:w-1/3 w-full flex flex-col gap-10">
-          <p className="text-slate-100  md:text-2xl text-sm font-semibold hover:text-slate-yellow duration-300">
+          <p className="text-slate-100  md:text-2xl text-sm font-semibold max-lg:text-center hover:text-slate-yellow duration-300">
             hipre.investment@example.com
           </p>
           <p className="text-gray-400 md:text-xl text-base leading-9 max-lg:text-center font-medium">
